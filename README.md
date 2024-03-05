@@ -1,7 +1,7 @@
 # Hello, I'm Eli
 <a href="https://www.linkedin.com/in/eli-dean-0458a82b8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm currently an online student focusing on cyber security, driven by a strong commitment to enhancing my skills in the field.
+I'm currently an online student focusing on cyber security, driven by a strong commitment to enhancing my skills in the field.  
 
 ## Objective
 
